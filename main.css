@@ -5,3 +5,7 @@ body {
     margin: 15px;
     padding: 1%;
 }
+header {
+    background-color: Grey;
+    padding: 10px 0;
+}

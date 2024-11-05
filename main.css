@@ -32,3 +32,8 @@ a {
 .example-button:hover {
     background-color:  orange;
 }
+footer {
+    background-color: teal;
+    position: fixed;
+    font-weight: bold;
+}

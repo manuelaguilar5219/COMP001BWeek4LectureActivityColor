@@ -9,3 +9,7 @@ header {
     background-color: Grey;
     padding: 10px 0;
 }
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}

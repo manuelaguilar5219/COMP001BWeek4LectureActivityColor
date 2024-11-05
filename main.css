@@ -23,3 +23,9 @@ a {
 .example-link {
     color: white;
 }
+.example-button {
+    background-color: red;
+    color: white;
+    font-weight: bold
+    ;
+}
